@@ -1,0 +1,14 @@
+.search-results {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.search-users-items {
+  margin: 1rem 0;
+  padding: 0 1rem;
+  width: 80%;
+  background-color: #e8e7e7;
+}
